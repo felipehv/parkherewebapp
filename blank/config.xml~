@@ -25,5 +25,7 @@
     <icon src="resources/android/icon/drawable-xxhdpi-icon.png" density="xxhdpi"/>
     <icon src="resources/android/icon/drawable-xxxhdpi-icon.png" density="xxxhdpi"/>
   </platform>
+    <access origin="*.ionic.io"/>
+    <access origin="*.openstreetmap.org"/>
   <icon src="resources/android/icon/drawable-xhdpi-icon.png"/>
 </widget>
